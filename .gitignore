@@ -1,5 +1,5 @@
-Lib\*
-venv\*
-Scripts\*
-includes\*
+Lib/*
+venv/*
+Scripts/*
+includes/*
 pyvenv.cfg
