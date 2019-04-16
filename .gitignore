@@ -1,0 +1,5 @@
+Lib\*
+venv\*
+Scripts\*
+includes\*
+pyvenv.cfg
