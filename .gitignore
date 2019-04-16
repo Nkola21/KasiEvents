@@ -3,3 +3,5 @@ venv/*
 Scripts/*
 includes/*
 pyvenv.cfg
+*/*pyc
+*/*/*.pyc
